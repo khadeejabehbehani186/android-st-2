@@ -1,0 +1,3 @@
+int x = 30;
+double = 15.8 ;
+char= 'A';
